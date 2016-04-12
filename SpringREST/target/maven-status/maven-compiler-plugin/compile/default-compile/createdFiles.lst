@@ -1,0 +1,8 @@
+com\nikhilpimpale\learning\springrest\configuration\SpringRESTWebConfiguration.class
+com\nikhilpimpale\learning\springrest\exception\UserNotFoundException.class
+com\nikhilpimpale\learning\springrest\configuration\SpringRESTWebInitializer.class
+com\nikhilpimpale\learning\springrest\dto\User.class
+com\nikhilpimpale\learning\springrest\service\UserService.class
+com\nikhilpimpale\learning\springrest\webresource\UserWebResource.class
+com\nikhilpimpale\learning\springrest\service\UserServiceI.class
+com\nikhilpimpale\learning\springrest\configuration\SpringRESTConfiguration.class
